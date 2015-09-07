@@ -1,0 +1,9 @@
+Package: com.mohammadag.hidegooglemapswatermark
+Name: Hide Google Maps Watermark
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide the Google logo in Google Maps
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
